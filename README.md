@@ -1,6 +1,5 @@
 Full-Stack Finance Management System
 
-Introduction
 Welcome to the documentation for the Full-Stack Finance Management System, a comprehensive web-based application designed to help users manage their finances effectively. This documentation offers an insightful overview of the system's functionalities, installation instructions, technologies utilized, and avenues for support and enhancement.
 
 Installation
